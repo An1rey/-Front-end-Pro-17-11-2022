@@ -1,2 +1,5 @@
-var name = prompt('John')
-alert("Hello, John! How are you?")
+const name = prompt('What is your name?');
+alert('Hello, ' +name+ '! How are you? ');
+
+
+
